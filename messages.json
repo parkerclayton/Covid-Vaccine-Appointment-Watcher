@@ -1,0 +1,8 @@
+[
+    {
+        "from": "youremail@gmail.com",
+        "to": "someotheremail@gmail.com",
+        "subject": "Appointment available",
+        "body": "go to some link"
+    }
+]
